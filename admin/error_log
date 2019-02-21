@@ -1,0 +1,731 @@
+[28-Jun-2017 16:17:12 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:17:12 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[28-Jun-2017 16:17:13 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 30
+[28-Jun-2017 16:17:13 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 34
+[28-Jun-2017 16:17:13 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:19:06 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:19:06 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[28-Jun-2017 16:19:08 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 41
+[28-Jun-2017 16:19:08 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 45
+[28-Jun-2017 16:19:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:19:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:19:21 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:19:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:19:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:22:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:22:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:26:06 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:26:06 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:26:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:26:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:26:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:26:32 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:26:38 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 30
+[28-Jun-2017 16:26:38 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 34
+[28-Jun-2017 16:26:38 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:26:48 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 41
+[28-Jun-2017 16:26:48 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 45
+[28-Jun-2017 16:26:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:27:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:27:58 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[28-Jun-2017 16:28:01 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[28-Jun-2017 16:28:01 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[28-Jun-2017 16:28:01 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:29:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:29:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[28-Jun-2017 16:29:42 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[28-Jun-2017 16:29:44 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[28-Jun-2017 16:29:44 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[28-Jun-2017 16:29:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:15:30 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:15:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:15:40 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[29-Jun-2017 09:15:46 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[29-Jun-2017 09:15:46 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[29-Jun-2017 09:15:46 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:15:57 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 30
+[29-Jun-2017 09:15:57 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 34
+[29-Jun-2017 09:15:57 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:16:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:16:40 Etc/GMT] PHP Notice:  Undefined index: value in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 6
+[29-Jun-2017 09:16:40 Etc/GMT] PHP Notice:  Undefined index: value in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 30
+[29-Jun-2017 09:17:30 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:17:30 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[29-Jun-2017 09:17:56 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:17:56 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[29-Jun-2017 09:17:57 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[29-Jun-2017 09:17:57 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[29-Jun-2017 09:17:57 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:18:05 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:18:05 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:18:24 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:18:24 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:18:36 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 30
+[29-Jun-2017 09:18:36 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 34
+[29-Jun-2017 09:18:36 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:18:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:18:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:19:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:19:02 Etc/GMT] PHP Notice:  Undefined index: value in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 6
+[29-Jun-2017 09:19:02 Etc/GMT] PHP Notice:  Undefined index: value in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 30
+[29-Jun-2017 09:22:09 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:22:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:22:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:22:50 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:22:50 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:24:18 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[29-Jun-2017 09:24:18 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[29-Jun-2017 09:24:18 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:24:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:24:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:24:43 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 09:24:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:48:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:48:47 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[29-Jun-2017 10:48:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:48:51 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[29-Jun-2017 10:49:04 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 29
+[29-Jun-2017 10:49:04 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 33
+[29-Jun-2017 10:49:04 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:49:05 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 29
+[29-Jun-2017 10:49:05 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 33
+[29-Jun-2017 10:49:05 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:49:52 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:49:53 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:52:00 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:52:00 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[29-Jun-2017 10:52:02 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 29
+[29-Jun-2017 10:52:02 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 33
+[29-Jun-2017 10:52:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:53:18 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:53:18 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 58
+[29-Jun-2017 10:53:18 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 59
+[29-Jun-2017 10:53:18 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 60
+[29-Jun-2017 10:53:18 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 61
+[29-Jun-2017 10:53:36 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:53:36 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[29-Jun-2017 10:53:40 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 29
+[29-Jun-2017 10:53:40 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 33
+[29-Jun-2017 10:53:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:56:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:56:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:56:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[29-Jun-2017 10:56:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 04:02:53 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 04:02:53 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[30-Jun-2017 04:03:02 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[30-Jun-2017 04:03:02 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[30-Jun-2017 04:03:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 04:03:55 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 29
+[30-Jun-2017 04:03:55 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 33
+[30-Jun-2017 04:03:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 04:07:16 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 04:07:17 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 58
+[30-Jun-2017 04:07:17 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 59
+[30-Jun-2017 04:07:17 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 60
+[30-Jun-2017 04:07:17 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 61
+[30-Jun-2017 04:08:10 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 29
+[30-Jun-2017 04:08:10 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 33
+[30-Jun-2017 04:08:10 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 04:09:00 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 04:09:00 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 58
+[30-Jun-2017 04:09:00 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 59
+[30-Jun-2017 04:09:00 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 60
+[30-Jun-2017 04:09:00 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/upload.php on line 61
+[30-Jun-2017 06:45:36 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:45:37 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[30-Jun-2017 06:45:40 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 29
+[30-Jun-2017 06:45:40 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/gallery.php on line 33
+[30-Jun-2017 06:45:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:45:50 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:45:50 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:45:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:45:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:46:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:46:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:47:09 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:47:09 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:47:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 06:47:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:03:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:03:38 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:11:19 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[30-Jun-2017 08:11:19 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[30-Jun-2017 08:11:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:11:56 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:11:56 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:12:38 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:12:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:13:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:13:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:22:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[30-Jun-2017 08:22:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:18:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:18:03 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[01-Jul-2017 03:18:06 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[01-Jul-2017 03:18:06 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[01-Jul-2017 03:18:06 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:18:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:18:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:20:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:20:38 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:29:36 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:29:36 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:30:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:30:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:32:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:32:40 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/logincontroller.php on line 16
+[01-Jul-2017 03:32:46 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 40
+[01-Jul-2017 03:32:46 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/news.php on line 44
+[01-Jul-2017 03:32:46 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:33:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:33:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:33:13 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[01-Jul-2017 03:33:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/aggarwal/gurukul/25/hec/admin/model.php on line 6
+[20-Jul-2017 03:23:56 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:24:15 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:24:15 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[20-Jul-2017 03:24:18 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 40
+[20-Jul-2017 03:24:18 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 44
+[20-Jul-2017 03:24:18 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:24:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:24:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:25:54 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:25:54 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:27:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:27:09 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:27:23 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:27:23 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:28:15 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:28:15 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:28:26 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 40
+[20-Jul-2017 03:28:26 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 44
+[20-Jul-2017 03:28:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:28:34 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[20-Jul-2017 03:28:34 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[20-Jul-2017 03:28:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:29:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:29:28 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[20-Jul-2017 03:29:28 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[20-Jul-2017 03:29:28 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[20-Jul-2017 03:29:28 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[20-Jul-2017 03:29:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:29:55 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[20-Jul-2017 03:29:58 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 40
+[20-Jul-2017 03:29:58 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 44
+[20-Jul-2017 03:29:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:30:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:30:15 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:30:26 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[20-Jul-2017 03:30:26 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[20-Jul-2017 03:30:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:30:41 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:30:41 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[20-Jul-2017 03:30:41 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[20-Jul-2017 03:30:41 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[20-Jul-2017 03:30:41 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[20-Jul-2017 03:52:54 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:52:54 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[20-Jul-2017 03:53:10 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[20-Jul-2017 03:53:10 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[20-Jul-2017 03:53:10 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:53:33 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[20-Jul-2017 03:53:33 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[20-Jul-2017 03:53:33 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[20-Jul-2017 03:53:33 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[20-Jul-2017 03:53:33 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[20-Jul-2017 03:54:15 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[20-Jul-2017 03:54:15 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[20-Jul-2017 03:54:15 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:01:43 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:01:59 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:05:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:05:28 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[21-Jul-2017 11:06:05 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:06:05 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[21-Jul-2017 11:06:08 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 40
+[21-Jul-2017 11:06:08 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 44
+[21-Jul-2017 11:06:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:07:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:07:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:07:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:07:32 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:07:42 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[21-Jul-2017 11:07:42 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[21-Jul-2017 11:07:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:10:21 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:10:21 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[21-Jul-2017 11:10:21 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[21-Jul-2017 11:10:21 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[21-Jul-2017 11:10:21 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[21-Jul-2017 11:11:33 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:11:33 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[21-Jul-2017 11:11:39 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[21-Jul-2017 11:11:39 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[21-Jul-2017 11:11:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:12:45 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 40
+[21-Jul-2017 11:12:45 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 44
+[21-Jul-2017 11:12:45 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:13:10 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:13:10 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:13:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:13:35 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:14:09 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[21-Jul-2017 11:14:10 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 03:17:10 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 03:17:10 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[22-Jul-2017 03:17:13 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[22-Jul-2017 03:17:13 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[22-Jul-2017 03:17:13 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 03:19:01 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 03:19:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 03:19:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 03:19:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:00:09 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:00:09 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[22-Jul-2017 05:00:16 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[22-Jul-2017 05:00:16 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[22-Jul-2017 05:00:16 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:00:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:00:31 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[22-Jul-2017 05:00:31 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[22-Jul-2017 05:00:31 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[22-Jul-2017 05:00:31 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[22-Jul-2017 05:01:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:01:27 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[22-Jul-2017 05:01:29 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[22-Jul-2017 05:01:29 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[22-Jul-2017 05:01:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:01:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:01:58 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[22-Jul-2017 05:02:01 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[22-Jul-2017 05:02:01 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[22-Jul-2017 05:02:01 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:02:04 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:02:04 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[22-Jul-2017 05:02:04 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[22-Jul-2017 05:02:04 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[22-Jul-2017 05:02:04 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[22-Jul-2017 05:02:23 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:02:24 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:02:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:02:48 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[22-Jul-2017 05:02:50 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[22-Jul-2017 05:02:50 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[22-Jul-2017 05:02:50 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:03:04 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:03:04 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[22-Jul-2017 05:03:04 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[22-Jul-2017 05:03:04 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[22-Jul-2017 05:03:04 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[22-Jul-2017 05:03:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:03:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:04:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:04:03 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[22-Jul-2017 05:04:05 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[22-Jul-2017 05:04:05 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[22-Jul-2017 05:04:05 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:19:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:19:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:19:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:19:27 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[22-Jul-2017 05:19:30 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 40
+[22-Jul-2017 05:19:30 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 44
+[22-Jul-2017 05:19:30 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:19:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:19:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:19:43 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:19:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:20:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:20:52 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:21:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:21:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:29:12 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:29:24 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:29:24 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[22-Jul-2017 05:29:27 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[22-Jul-2017 05:29:27 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[22-Jul-2017 05:29:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:30:01 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[22-Jul-2017 05:30:01 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[22-Jul-2017 05:30:01 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[22-Jul-2017 05:30:01 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[22-Jul-2017 05:30:01 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[25-Jul-2017 04:21:09 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 04:21:09 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[25-Jul-2017 04:21:12 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[25-Jul-2017 04:21:12 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[25-Jul-2017 04:21:12 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 04:22:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 04:22:42 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[25-Jul-2017 04:22:42 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[25-Jul-2017 04:22:42 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[25-Jul-2017 04:22:42 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[25-Jul-2017 04:23:07 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 04:23:07 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[25-Jul-2017 04:23:11 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[25-Jul-2017 04:23:11 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[25-Jul-2017 04:23:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 04:23:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 04:23:47 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[25-Jul-2017 04:23:47 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[25-Jul-2017 04:23:47 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[25-Jul-2017 04:23:47 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[25-Jul-2017 11:21:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:21:19 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[25-Jul-2017 11:21:21 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[25-Jul-2017 11:21:21 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[25-Jul-2017 11:21:21 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:21:57 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:21:57 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[25-Jul-2017 11:21:57 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[25-Jul-2017 11:21:57 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[25-Jul-2017 11:21:57 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[25-Jul-2017 11:22:36 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:22:36 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[25-Jul-2017 11:22:38 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[25-Jul-2017 11:22:38 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[25-Jul-2017 11:22:38 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:22:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:22:49 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[25-Jul-2017 11:22:49 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[25-Jul-2017 11:22:49 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[25-Jul-2017 11:22:49 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[25-Jul-2017 11:23:41 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:23:42 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[25-Jul-2017 11:24:17 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[25-Jul-2017 11:24:17 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[25-Jul-2017 11:24:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:24:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:24:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:24:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:24:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:25:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:25:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:25:07 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[25-Jul-2017 11:25:07 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 05:42:24 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 05:42:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 05:44:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 05:44:49 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[10-Aug-2017 05:45:22 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 40
+[10-Aug-2017 05:45:22 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/news.php on line 44
+[10-Aug-2017 05:45:22 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 05:54:30 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 05:54:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:01:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:01:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:04:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:04:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:08:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:08:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:08:37 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[10-Aug-2017 06:08:37 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[10-Aug-2017 06:08:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:13:04 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[10-Aug-2017 06:13:04 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 58
+[10-Aug-2017 06:13:04 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 59
+[10-Aug-2017 06:13:04 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 60
+[10-Aug-2017 06:13:04 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/cvg/hec/admin/upload.php on line 61
+[28-Dec-2017 06:38:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[28-Dec-2017 06:38:02 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[28-Dec-2017 06:39:17 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[28-Dec-2017 06:39:17 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[28-Dec-2017 06:39:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[28-Dec-2017 06:53:43 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 29
+[28-Dec-2017 06:53:43 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/cvg/hec/admin/gallery.php on line 33
+[28-Dec-2017 06:53:43 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[28-Dec-2017 06:54:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[28-Dec-2017 06:54:48 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[28-Dec-2017 07:03:07 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/cvg/hec/admin/model.php on line 6
+[28-Dec-2017 07:03:07 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/cvg/hec/admin/logincontroller.php on line 16
+[20-Jan-2018 04:23:16 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:23:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:23:30 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:23:30 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[20-Jan-2018 04:23:34 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 04:23:34 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 04:23:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:23:41 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:23:41 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[20-Jan-2018 04:23:46 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 04:23:46 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 04:23:46 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:13 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:13 Etc/GMT] PHP Warning:  unlink(../images/5a5edf71503cf0.78842080.jpg): No such file or directory in /home/aggarp9c/public_html/hec2/admin/delete.php on line 10
+[20-Jan-2018 04:24:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:14 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 04:24:14 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 04:24:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:17 Etc/GMT] PHP Warning:  unlink(../images/5a5ee1a123f4a3.92540311.jpg): No such file or directory in /home/aggarp9c/public_html/hec2/admin/delete.php on line 10
+[20-Jan-2018 04:24:18 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:18 Etc/GMT] PHP Notice:  Undefined index: id in /home/aggarp9c/public_html/hec2/admin/delete.php on line 4
+[20-Jan-2018 04:24:18 Etc/GMT] PHP Notice:  Undefined variable: img in /home/aggarp9c/public_html/hec2/admin/delete.php on line 10
+[20-Jan-2018 04:24:18 Etc/GMT] PHP Warning:  unlink(): No such file or directory in /home/aggarp9c/public_html/hec2/admin/delete.php on line 10
+[20-Jan-2018 04:24:18 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:22 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:22 Etc/GMT] PHP Warning:  unlink(../images/5a5ee1b4ed9ae4.15727135.jpg): No such file or directory in /home/aggarp9c/public_html/hec2/admin/delete.php on line 10
+[20-Jan-2018 04:24:22 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:26 Etc/GMT] PHP Warning:  unlink(../images/5a5ee1c0749452.74798709.jpg): No such file or directory in /home/aggarp9c/public_html/hec2/admin/delete.php on line 10
+[20-Jan-2018 04:24:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:29 Etc/GMT] PHP Warning:  unlink(../images/5a5ee1ce8f1b22.92894900.jpeg): No such file or directory in /home/aggarp9c/public_html/hec2/admin/delete.php on line 10
+[20-Jan-2018 04:24:30 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:33 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:24:33 Etc/GMT] PHP Warning:  unlink(../images/5a5ee1d854b368.85881174.jpg): No such file or directory in /home/aggarp9c/public_html/hec2/admin/delete.php on line 10
+[20-Jan-2018 04:24:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:28:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:28:02 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 04:28:02 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 04:28:02 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 04:28:02 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 04:28:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:28:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:28:39 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 04:28:39 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 04:28:39 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 04:28:39 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 04:29:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:29:19 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 04:29:19 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 04:29:19 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 04:29:19 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 04:29:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:29:52 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 04:29:52 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 04:29:52 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:30:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:30:03 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 04:30:03 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 04:30:03 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 04:30:03 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 04:30:12 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:30:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:30:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:30:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:30:44 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 04:30:44 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 04:30:44 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 04:30:44 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 04:30:52 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:30:56 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:30:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:36:57 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:36:57 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[20-Jan-2018 04:36:59 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 04:36:59 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 04:36:59 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:38:00 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:38:00 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:38:52 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:38:53 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:39:10 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:39:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:39:21 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:39:21 Etc/GMT] PHP Notice:  Undefined index: value in /home/aggarp9c/public_html/hec2/admin/upload.php on line 6
+[20-Jan-2018 04:39:21 Etc/GMT] PHP Notice:  Undefined index: value in /home/aggarp9c/public_html/hec2/admin/upload.php on line 30
+[20-Jan-2018 04:39:25 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:39:25 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 04:39:25 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 04:39:25 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 04:39:25 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 04:39:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:40:32 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:40:32 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 04:40:32 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 04:40:32 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 04:40:32 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 04:40:38 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:40:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:01 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:01 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:18 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:25 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 04:41:30 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:03:16 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:03:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:03:37 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[20-Jan-2018 05:03:43 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 05:03:43 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 05:03:43 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:05:00 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:05:00 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 05:05:00 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 05:05:00 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 05:05:00 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 05:05:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:05:48 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 05:05:48 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 05:05:48 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 05:05:48 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 05:42:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:42:41 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:42:41 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[20-Jan-2018 05:42:44 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 05:42:44 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 05:42:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:42:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:42:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:43:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:43:48 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:50 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:57 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:57 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:44:58 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 05:44:58 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 05:44:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:06 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:06 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:28 Etc/GMT] PHP Notice:  Undefined index: value in /home/aggarp9c/public_html/hec2/admin/upload.php on line 6
+[20-Jan-2018 05:45:28 Etc/GMT] PHP Notice:  Undefined index: value in /home/aggarp9c/public_html/hec2/admin/upload.php on line 30
+[20-Jan-2018 05:45:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:45:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:46:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 05:46:43 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:39:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:39:49 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[20-Jan-2018 06:39:52 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 06:39:52 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 06:39:52 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:40:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:40:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:41:33 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:41:33 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:42:00 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:42:00 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:43:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:43:29 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:58:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 06:58:52 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:01:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:01:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:02:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:02:18 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:02:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:02:47 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:03:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:03:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:03:33 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:03:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:04:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:04:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:04:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:04:35 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:04:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:04:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:14:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:14:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:15:43 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:15:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:16:22 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:16:23 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:17:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:17:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:18:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:18:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:20:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:20:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:20:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:20:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:21:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:21:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:23:19 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:23:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:25:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:25:08 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 07:25:08 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 07:25:08 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 07:25:08 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 07:25:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:25:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:25:20 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 07:25:20 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 07:25:20 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 07:25:20 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 07:25:23 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:26:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:26:37 Etc/GMT] PHP Notice:  Undefined variable: adm_no in /home/aggarp9c/public_html/hec2/admin/upload.php on line 58
+[20-Jan-2018 07:26:37 Etc/GMT] PHP Notice:  Undefined variable: msg_id in /home/aggarp9c/public_html/hec2/admin/upload.php on line 59
+[20-Jan-2018 07:26:37 Etc/GMT] PHP Notice:  Undefined variable: reply_msg in /home/aggarp9c/public_html/hec2/admin/upload.php on line 60
+[20-Jan-2018 07:26:37 Etc/GMT] PHP Notice:  Undefined variable: designation in /home/aggarp9c/public_html/hec2/admin/upload.php on line 61
+[20-Jan-2018 07:26:42 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:27:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:27:11 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[20-Jan-2018 07:27:14 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 07:27:14 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 07:27:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:27:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:27:31 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 07:27:49 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/news.php on line 40
+[20-Jan-2018 07:27:49 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/news.php on line 44
+[20-Jan-2018 07:27:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 11:53:38 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 11:53:38 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[20-Jan-2018 11:53:41 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[20-Jan-2018 11:53:41 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[20-Jan-2018 11:53:41 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 11:54:01 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[20-Jan-2018 11:54:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[27-Jan-2018 09:41:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[27-Jan-2018 09:41:14 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[27-Jan-2018 09:41:21 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[27-Jan-2018 09:41:21 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[27-Jan-2018 09:41:21 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[14-Mar-2018 11:42:23 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[14-Mar-2018 11:42:23 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[14-Mar-2018 11:42:28 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[14-Mar-2018 11:42:28 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[14-Mar-2018 11:42:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[16-Mar-2018 08:31:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[16-Mar-2018 08:31:55 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[16-Mar-2018 08:31:58 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[16-Mar-2018 08:31:58 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[16-Mar-2018 08:31:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[16-Mar-2018 08:32:09 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[16-Mar-2018 08:32:10 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[16-Mar-2018 08:44:35 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[16-Mar-2018 08:44:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[19-Mar-2018 21:59:59 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[19-Mar-2018 22:00:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[19-Mar-2018 22:00:08 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[19-Mar-2018 22:05:49 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[19-Mar-2018 22:05:49 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[19-Mar-2018 22:05:49 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[19-Mar-2018 22:06:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[19-Mar-2018 22:06:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[19-Mar-2018 22:07:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[19-Mar-2018 22:07:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 14:46:35 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 14:46:35 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[21-Mar-2018 14:46:40 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[21-Mar-2018 14:46:40 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[21-Mar-2018 14:46:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 14:47:05 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 14:47:07 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 15:06:30 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 15:06:54 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 15:06:54 Etc/GMT] PHP Notice:  Undefined variable: adm in /home/aggarp9c/public_html/hec2/admin/logincontroller.php on line 16
+[21-Mar-2018 15:06:56 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 29
+[21-Mar-2018 15:06:56 Etc/GMT] PHP Notice:  Undefined index: reply in /home/aggarp9c/public_html/hec2/admin/gallery.php on line 33
+[21-Mar-2018 15:06:56 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 15:07:13 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 15:07:14 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 15:07:50 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6
+[21-Mar-2018 15:07:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/aggarp9c/public_html/hec2/admin/model.php on line 6

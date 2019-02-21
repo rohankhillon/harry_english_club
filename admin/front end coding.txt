@@ -1,0 +1,49 @@
+<?php
+		
+include("admin/model.php");
+	
+$db = new database;
+				
+$r=$db->gallery();
+			
+while($row=mysql_fetch_array($r))
+				
+{
+				
+?>
+
+add your column
+src of your image is -----> src="images/<?php echo $row['2']?>"
+
+add a folder name images in front pannel
+
+NEWS:-
+	<marquee direction="up" style="margin:10px"><br>
+
+ <?php
+				
+ include("admin/model.php");
+				
+ $db = new database;
+			
+
+$n=$db->news();
+
+
+ 
+while($news = mysql_fetch_array($n))
+
+{
+
+?>
+
+<h4 style="color:white;"><?php echo $news['2'];?> ---> <?php echo $news['1'];?></h4>
+ 
+<?php 
+}
+ 
+?>
+                    	
+						
+						
+						</marquee>
